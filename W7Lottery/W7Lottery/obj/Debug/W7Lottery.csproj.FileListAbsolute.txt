@@ -1,0 +1,7 @@
+C:\Users\Kenneth Harischandra\source\repos\W7Lottery\W7Lottery\bin\Debug\W7Lottery.exe.config
+C:\Users\Kenneth Harischandra\source\repos\W7Lottery\W7Lottery\bin\Debug\W7Lottery.exe
+C:\Users\Kenneth Harischandra\source\repos\W7Lottery\W7Lottery\bin\Debug\W7Lottery.pdb
+C:\Users\Kenneth Harischandra\source\repos\W7Lottery\W7Lottery\obj\Debug\W7Lottery.csprojAssemblyReference.cache
+C:\Users\Kenneth Harischandra\source\repos\W7Lottery\W7Lottery\obj\Debug\W7Lottery.csproj.CoreCompileInputs.cache
+C:\Users\Kenneth Harischandra\source\repos\W7Lottery\W7Lottery\obj\Debug\W7Lottery.exe
+C:\Users\Kenneth Harischandra\source\repos\W7Lottery\W7Lottery\obj\Debug\W7Lottery.pdb
