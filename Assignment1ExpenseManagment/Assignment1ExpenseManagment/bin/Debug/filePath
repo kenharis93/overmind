@@ -1,0 +1,30 @@
+All Expenses
+Date, Expense Type, Description, Cost
+2018-06-02,Living,Rent,720.00
+2018-06-02,Entertainment,Movie Ticket,24.00
+2018-06-03,Education,Textbook,120.00
+2018-06-03,Entertainment,Spotify,9.99
+2018-06-03,Miscellaneous,Coffee,2.79
+2018-06-04,Living,Grocery,82.99
+2018-06-04,Entertainment,Video Game,79.99
+2018-06-06,Entertainment,Netflix,14.99
+2018-06-09,Education,Parking,7.00
+2018-06-09,Living,Dentist,439.89
+2018-06-11,Transportation,Tire Replacement,521.71
+2018-06-11,Living,Grocery,100.71
+2018-06-12,Transportation,UBER,56.23
+2018-06-12,Entertainment,Event,74.86
+2018-06-13,Miscellaneous,Snacks,18.67
+2018-06-13,Miscellaneous,Donation,25.00
+2018-07-15,Transportation,UBER,74.59
+2018-07-15,Living,UBER EATS,22.46
+2018-07-16,Living,Rogers Comm,133.13
+2018-07-16,Living,Fido Home,13.34
+ 
+Transportation Total ,652.53
+Living Total ,1512.52
+Entertainment Total ,203.83
+Education Total ,127.00
+Misc. Total ,46.46
+ 
+Total ,2542.34
