@@ -1,0 +1,7 @@
+C:\Users\Kenneth Harischandra\source\repos\Q3Cipher\Q3Cipher\bin\Debug\Q3Cipher.exe.config
+C:\Users\Kenneth Harischandra\source\repos\Q3Cipher\Q3Cipher\bin\Debug\Q3Cipher.exe
+C:\Users\Kenneth Harischandra\source\repos\Q3Cipher\Q3Cipher\bin\Debug\Q3Cipher.pdb
+C:\Users\Kenneth Harischandra\source\repos\Q3Cipher\Q3Cipher\obj\Debug\Q3Cipher.csprojAssemblyReference.cache
+C:\Users\Kenneth Harischandra\source\repos\Q3Cipher\Q3Cipher\obj\Debug\Q3Cipher.csproj.CoreCompileInputs.cache
+C:\Users\Kenneth Harischandra\source\repos\Q3Cipher\Q3Cipher\obj\Debug\Q3Cipher.exe
+C:\Users\Kenneth Harischandra\source\repos\Q3Cipher\Q3Cipher\obj\Debug\Q3Cipher.pdb
