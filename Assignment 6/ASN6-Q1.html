@@ -1,0 +1,86 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>ITC5202</title>
+<style>
+#box1{
+width:200px;
+height:200px;
+background-color:lightblue;
+overflow:auto;
+}
+</style>
+
+<script
+src="https://code.jquery.com/jquery-3.3.1.js"
+integrity="sha256-2Kok7MbOyxpgUVvAk/HJ2jigOSYS2auK4Pfzbm7uH60="
+crossorigin="anonymous"></script>
+
+<script>
+  //Always start with below line (when document is ready these functions are available)
+$(document).ready(function(){
+//When user clicks on the 1st item, Change the color of 1st item to blue
+    $('#item1').click(function(){
+      $('#item1').css({'color': 'Blue'});
+    });
+//When user double clicks on the 5th item, Change the color of 5th item to green
+    $('#item5').dblclick(function(){
+      $('#item5').css({'color': 'Green'});
+  });
+//Using jQuery, develop a program which opens the JSON data and displays it into the BOX when user clicks on the button.
+    $('#btnload').click(function(){
+      $('#box1').load('data-set1.json');
+  });
+
+
+});
+</script>
+
+
+
+
+
+
+</head>
+
+<body>
+<h3> ITC5202- Assignment 6 </h3>
+<p>Famous JavaScript Libraries</p>
+<table width="200" border="1">
+  <tr>
+    <th scope="col">Rank</th>
+    <th scope="col">Library Name</th>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td id= "item1">jQuery</td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td>Bootstrap</td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td><p>Backbone.js</p></td>
+  </tr>
+  <tr>
+    <td>4</td>
+    <td>Underscore.js</td>
+  </tr>
+  <tr>
+    <td>5</td>
+    <td id = "item5">Handlebar.js</td>
+  </tr>
+</table>
+<br>
+<button id = "btnload">
+Load the JSON data into the below box
+</button>
+
+<div id="box1" >
+
+</div>
+
+</body>
+</html>

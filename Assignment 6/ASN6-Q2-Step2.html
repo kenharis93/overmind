@@ -1,0 +1,41 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>ITC5202</title>
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+
+<script>
+$(document).ready(function(){
+	
+	// Handle onclick event
+	$('#btn').click(function(){
+	// Collect data using jQuery Ajax  
+		$.getJSON("data-set1.json", function(result){
+			// Check if .getJSON can successfully load .json file
+			console.log("Success");
+			// Take input
+			var search = prompt("Enter the year:", "Search between 1999-2013");
+			// Display result
+			$.each(result, function(i,field){
+            console.log(field);
+				if (field.year == search){
+               $("#id").html("Name: "+field.album+"</br>" + "Year: "+field.year+"</br>" + "US Charts Peak : "+field.US_peak_chart_post+"</br>");
+				}
+
+		    });
+		});
+
+	});
+	
+});
+</script>
+</head>
+<body>
+<p id="id">Display Here </p>
+<button id="btn">
+Click Me
+</button>
+</body>
+</html>
