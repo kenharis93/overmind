@@ -1,0 +1,45 @@
+Name: Manpreet, ID: N01203063, Date: DatePicker@1eb970e6[styleClass=combo-box-base date-picker], Destination: Goa
+Category: ComboBox, Decription: Restaurant, Amount: 45
+Category: ComboBox, Decription: car, Amount: 64
+Category: ComboBox, Decription: Hotel, Amount: 45
+Category: ComboBox, Decription: Clubbing, Amount: 54
+Name: Manpreet, ID: N01203063, Date: DatePicker@20a99178[styleClass=combo-box-base date-picker], Destination: Mumbai
+Category: ComboBox, Decription: , Amount: 
+Category: ComboBox, Decription: , Amount: 
+Category: ComboBox, Decription: , Amount: 
+Category: ComboBox, Decription: , Amount: 
+Name: Manpreet, ID: N01203063, Date: DatePicker@1eb970e6[styleClass=combo-box-base date-picker], Destination: 
+Category: ComboBox, Decription: , Amount: 
+Category: javafx.scene.control.ComboBox$ComboBoxSelectionModel@53ffd6b6, Decription: , Amount: 
+Category: ComboBox, Decription: , Amount: 
+Category: ComboBox, Decription: , Amount: 
+Name: Manpreet, ID: N01203063, Date: DatePicker@1eb970e6[styleClass=combo-box-base date-picker], Destination: 
+Category: ComboBox, Decription: , Amount: 
+Category: ComboBox, Decription: , Amount: 
+Category: ComboBox, Decription: , Amount: 
+Category: ComboBox, Decription: , Amount: 
+Name: Manpreet, ID: N01203063, Date: DatePicker@1eb970e6[styleClass=combo-box-base date-picker], Destination: 
+Category: ComboBox, Decription: , Amount: 
+Category: ComboBox, Decription: , Amount: 
+Category: ComboBox, Decription: , Amount: 
+Category: ComboBox, Decription: , Amount: 
+Name: Manpreet, ID: N01203063, Date: 2018-06-07, Destination: d
+Category: ComboBox, Decription: food, Amount: 234
+Category: ComboBox, Decription: , Amount: 
+Category: ComboBox, Decription: , Amount: 
+Category: ComboBox, Decription: , Amount: 
+Name: Manpreet, ID: N01203063, Date: 2018-06-13, Destination: Test
+Category: ComboBox, Decription: Test, Amount: 12
+Category: ComboBox, Decription: Test1, Amount: 43
+Category: ComboBox, Decription: Test2, Amount: 23
+Category: ComboBox, Decription: Test3, Amount: 94
+Name: Manpreet, ID: N01203063, Date: 2018-06-08, Destination: Test
+Category: ComboBox, Description: T1, Amount: 1
+Category: ComboBox, Description: T2, Amount: 2
+Category: ComboBox, Description: T3, Amount: 3
+Category: ComboBox, Description: T4, Amount: 4
+Name: Manpreet, ID: N01203063, Date: 2018-06-07, Destination: test
+Category: Food, Description: T1, Amount: 1
+Category: Transportation, Description: T2, Amount: 2
+Category: Lodging, Description: T3, Amount: 3
+Category: Other, Description: T4, Amount: 4
